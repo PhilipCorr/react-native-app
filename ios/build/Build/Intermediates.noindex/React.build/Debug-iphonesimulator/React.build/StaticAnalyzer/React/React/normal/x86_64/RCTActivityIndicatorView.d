@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/pcorr/Repos/ReactNativeApp/node_modules/react-native/React/Views/RCTActivityIndicatorView.m \
-  /Users/pcorr/Repos/ReactNativeApp/node_modules/react-native/React/Views/RCTActivityIndicatorView.h
+  /Users/pcorr/Repos/react-native-app-old/node_modules/react-native/React/Views/RCTActivityIndicatorView.m \
+  /Users/pcorr/Repos/react-native-app-old/node_modules/react-native/React/Views/RCTActivityIndicatorView.h

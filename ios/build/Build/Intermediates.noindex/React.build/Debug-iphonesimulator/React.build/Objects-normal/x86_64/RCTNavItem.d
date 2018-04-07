@@ -1,4 +1,4 @@
 dependencies: \
-  /Users/pcorr/Repos/ReactNativeApp/node_modules/react-native/React/Views/RCTNavItem.m \
-  /Users/pcorr/Repos/ReactNativeApp/node_modules/react-native/React/Views/RCTNavItem.h \
-  /Users/pcorr/Repos/ReactNativeApp/node_modules/react-native/React/Views/RCTComponent.h
+  /Users/pcorr/Repos/react-native-app-old/node_modules/react-native/React/Views/RCTNavItem.m \
+  /Users/pcorr/Repos/react-native-app-old/node_modules/react-native/React/Views/RCTNavItem.h \
+  /Users/pcorr/Repos/react-native-app-old/node_modules/react-native/React/Views/RCTComponent.h

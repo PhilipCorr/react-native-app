@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/pcorr/Repos/ReactNativeApp/node_modules/react-native/ReactCommon/jsinspector/InspectorInterfaces.cpp \
-  /Users/pcorr/Repos/ReactNativeApp/node_modules/react-native/ReactCommon/jsinspector/InspectorInterfaces.h
+  /Users/pcorr/Repos/react-native-app-old/node_modules/react-native/ReactCommon/jsinspector/InspectorInterfaces.cpp \
+  /Users/pcorr/Repos/react-native-app-old/node_modules/react-native/ReactCommon/jsinspector/InspectorInterfaces.h

@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/pcorr/Repos/react-native-app/node_modules/react-native/ReactCommon/jschelpers/Unicode.cpp \
-  /Users/pcorr/Repos/react-native-app/node_modules/react-native/ReactCommon/jschelpers/Unicode.h
+  /Users/pcorr/Repos/old/react-native-app-old/node_modules/react-native/ReactCommon/jschelpers/Unicode.cpp \
+  /Users/pcorr/Repos/old/react-native-app-old/node_modules/react-native/ReactCommon/jschelpers/Unicode.h

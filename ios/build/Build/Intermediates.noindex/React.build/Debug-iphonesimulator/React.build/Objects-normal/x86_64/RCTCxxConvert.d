@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/pcorr/Repos/ReactNativeApp/node_modules/react-native/React/Base/RCTCxxConvert.m \
-  /Users/pcorr/Repos/ReactNativeApp/node_modules/react-native/React/Base/RCTCxxConvert.h
+  /Users/pcorr/Repos/react-native-app-old/node_modules/react-native/React/Base/RCTCxxConvert.m \
+  /Users/pcorr/Repos/react-native-app-old/node_modules/react-native/React/Base/RCTCxxConvert.h

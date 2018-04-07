@@ -6,7 +6,7 @@
 	<dict>
 		<key>Base.lproj/LaunchScreen.nib</key>
 		<data>
-		Wso1c8euA+JNmnhXDP6nNBxfeyY=
+		C+FTURRLxjKudLBKz6Ypf0KoLI4=
 		</data>
 		<key>Frameworks/IDEBundleInjection.framework/IDEBundleInjection</key>
 		<data>
@@ -63,7 +63,7 @@
 		</data>
 		<key>PlugIns/ReactNativeAppTests.xctest.dSYM/Contents/Resources/DWARF/ReactNativeAppTests</key>
 		<data>
-		H90j7M+BEykDuAL7tdf8BNEp9kg=
+		XfIR5pzUoD3a/b9HgY4PBRUeMJc=
 		</data>
 		<key>PlugIns/ReactNativeAppTests.xctest/Info.plist</key>
 		<data>
@@ -71,7 +71,7 @@
 		</data>
 		<key>PlugIns/ReactNativeAppTests.xctest/ReactNativeAppTests</key>
 		<data>
-		hXG4xDhQSNwnAYvF2KkSCLWYBMA=
+		Pkq26Si47D5yNteM1WM2G2/dvv8=
 		</data>
 		<key>PlugIns/ReactNativeAppTests.xctest/_CodeSignature/CodeResources</key>
 		<data>
@@ -84,11 +84,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Wso1c8euA+JNmnhXDP6nNBxfeyY=
+			C+FTURRLxjKudLBKz6Ypf0KoLI4=
 			</data>
 			<key>hash2</key>
 			<data>
-			6/XCDAe6HGdoWefYlnvDfsF1EyxKQKIJsTmidDfeu4M=
+			2ThpkaaWZKYzHpSHOAgNv7tA47Y70cB+j+EtvmaPI90=
 			</data>
 		</dict>
 		<key>Frameworks/IDEBundleInjection.framework/IDEBundleInjection</key>
@@ -207,11 +207,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			H90j7M+BEykDuAL7tdf8BNEp9kg=
+			XfIR5pzUoD3a/b9HgY4PBRUeMJc=
 			</data>
 			<key>hash2</key>
 			<data>
-			hFkE9ngn6Q3BNblc5Jq/H+NO7ZPJFfxqWUYzQbOvPmk=
+			yF/3h+btPJzHzLPklZkOmLNQNIb+mYqy8QguDBpMlio=
 			</data>
 		</dict>
 		<key>PlugIns/ReactNativeAppTests.xctest/Info.plist</key>
@@ -229,11 +229,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			hXG4xDhQSNwnAYvF2KkSCLWYBMA=
+			Pkq26Si47D5yNteM1WM2G2/dvv8=
 			</data>
 			<key>hash2</key>
 			<data>
-			E8bxi02PwaFAiWwb7A+Y9AD3lGBLJhSxJMmfBn0LKl4=
+			yZOpjT1VxnY09CUkhq9V6D74yLgX3PVwdMjON/0MALY=
 			</data>
 		</dict>
 		<key>PlugIns/ReactNativeAppTests.xctest/_CodeSignature/CodeResources</key>

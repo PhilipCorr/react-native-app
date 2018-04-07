@@ -1,4 +1,4 @@
 dependencies: \
-  /Users/pcorr/Repos/react-native-app/node_modules/react-native/ReactCommon/yoga/yoga/YGEnums.cpp \
-  /Users/pcorr/Repos/react-native-app/node_modules/react-native/ReactCommon/yoga/yoga/YGEnums.h \
-  /Users/pcorr/Repos/react-native-app/node_modules/react-native/ReactCommon/yoga/yoga/YGMacros.h
+  /Users/pcorr/Repos/old/react-native-app-old/node_modules/react-native/ReactCommon/yoga/yoga/YGEnums.cpp \
+  /Users/pcorr/Repos/old/react-native-app-old/node_modules/react-native/ReactCommon/yoga/yoga/YGEnums.h \
+  /Users/pcorr/Repos/old/react-native-app-old/node_modules/react-native/ReactCommon/yoga/yoga/YGMacros.h

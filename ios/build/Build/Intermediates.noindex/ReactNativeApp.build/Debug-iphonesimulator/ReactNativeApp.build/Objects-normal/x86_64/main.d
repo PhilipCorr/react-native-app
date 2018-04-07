@@ -1,2 +1,3 @@
-dependencies: /Users/pcorr/Repos/ReactNativeApp/ios/ReactNativeApp/main.m \
-  /Users/pcorr/Repos/ReactNativeApp/ios/ReactNativeApp/AppDelegate.h
+dependencies: \
+  /Users/pcorr/Repos/react-native-app-old/ios/ReactNativeApp/main.m \
+  /Users/pcorr/Repos/react-native-app-old/ios/ReactNativeApp/AppDelegate.h
