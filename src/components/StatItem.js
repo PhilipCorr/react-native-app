@@ -1,24 +1,29 @@
 import React from 'react';
-import {View, Image, Text, FlatList, StyleSheet} from 'react-native';
+import {View, Image, Text, TouchableOpacity, StyleSheet} from 'react-native';
 import PropTypes from 'prop-types';
 
 class StatItem extends React.Component{
     static propTypes = {
-        stat: PropTypes.object.isRequired
+        stat: PropTypes.object.isRequired,
+        onPress: PropTypes.func.isRequired
+    }
+    handlePress = () => {
+      console.log('Item was selected...')
+      this.props.onPress(this.props.stat.date)
     }
     render(){
         const { stat } = this.props;
         return(
-            <View style={styles.stat}>
-            <Image style={styles.image} source={require("../../imgs/dogecoin.png")}/>
-                <View style={styles.info}>
-                    <Text style={styles.title}>{stat.date}</Text>
-                    <View style={styles.footer}>
-                        <Text style={styles.cause}>Payments: {stat.metric.payments_count}</Text>
-                        <Text style={styles.price}>Accounts: {stat.metric.accounts_created}</Text>
-                    </View>
-                </View>
-            </View>
+            <TouchableOpacity style={styles.stat} onPress={this.handlePress}>
+              <Image style={styles.image} source={require("../../imgs/dogecoin.png")}/>
+              <View style={styles.info}>
+                  <Text style={styles.title}>{stat.date}</Text>
+                  <View style={styles.footer}>
+                      <Text style={styles.cause}>Payments: {stat.metric.payments_count}</Text>
+                      <Text style={styles.price}>Accounts: {stat.metric.accounts_created}</Text>
+                  </View>
+              </View>
+            </TouchableOpacity>
         );
     }
 }

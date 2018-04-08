@@ -5,14 +5,17 @@ import StatItem from './StatItem';
 
 class StatsList extends React.Component {
     static propTypes = {
-        stats: PropTypes.array.isRequired
+        stats: PropTypes.array.isRequired,
+        onItemPress: PropTypes.func.isRequired
     }
     render() {
         return(
             <View style={styles.list}>
             <FlatList
                 data={this.props.stats}
-                renderItem={({item}) => <StatItem stat={item} />}
+                renderItem={({item}) => (
+                <StatItem stat={item} onPress={this.props.onItemPress}/>
+                )}
                 keyExtractor={item => item.date}
             />
             </View>
